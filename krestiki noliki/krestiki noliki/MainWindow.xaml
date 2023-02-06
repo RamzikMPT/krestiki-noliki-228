@@ -1,0 +1,29 @@
+﻿<Window x:Class="krestiki_noliki.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:krestiki_noliki"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="Black" Offset="1"/>
+                <GradientStop Color="#FF1B7F78" Offset="0.253"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Button x:Name="_1" Content="" HorizontalAlignment="Left" Margin="54,53,0,0" VerticalAlignment="Top" Height="100" Width="100" Click="Button_Click" FontSize="24" Foreground="#FFFD0000" FontFamily="Arial Black" FontWeight="Bold" BorderBrush="#FF020202" Background="#FFFBFBFB" />
+        <Button x:Name="_2" Content="" HorizontalAlignment="Left" Margin="159,53,0,0" VerticalAlignment="Top" Height="100" Width="100" Click="Button_Click" FontSize="24" Foreground="#FFFD0000" FontFamily="Arial Black" FontWeight="Bold" BorderBrush="Black" Background="White"/>
+        <Button x:Name="_3" Content="" HorizontalAlignment="Left" Margin="264,53,0,0" VerticalAlignment="Top" Height="100" Width="100" Click="Button_Click" FontSize="24" Foreground="#FFFD0000" FontFamily="Arial Black" FontWeight="Bold" Background="White" BorderBrush="Black"/>
+        <Button x:Name="_4" Content="" HorizontalAlignment="Left" Margin="54,158,0,0" VerticalAlignment="Top" Height="100" Width="100" Click="Button_Click" FontSize="24" Foreground="#FFFD0000" FontFamily="Arial Black" FontWeight="Bold" BorderBrush="Black" Background="White"/>
+        <Button x:Name="_5" Content="" HorizontalAlignment="Left" Margin="159,158,0,0" VerticalAlignment="Top" Height="100" Width="100" Click="Button_Click" FontSize="24" Foreground="#FFFD0000" FontFamily="Arial Black" FontWeight="Bold" Background="White" BorderBrush="Black"/>
+        <Button x:Name="_6" Content="" HorizontalAlignment="Left" Margin="264,158,0,0" VerticalAlignment="Top" Height="100" Width="100" Click="Button_Click" FontSize="24" Foreground="#FFFD0000" FontFamily="Arial Black" FontWeight="Bold" BorderBrush="Black" Background="White"/>
+        <Button x:Name="_7" Content="" HorizontalAlignment="Left" Margin="54,263,0,0" VerticalAlignment="Top" Height="100" Width="100" Click="Button_Click" FontSize="24" Foreground="#FFFD0000" FontFamily="Arial Black" FontWeight="Bold" BorderBrush="Black" Background="White"/>
+        <Button x:Name="_8" Content="" HorizontalAlignment="Left" Margin="159,263,0,0" VerticalAlignment="Top" Height="100" Width="100" Click="Button_Click" FontSize="24" Foreground="#FFFD0000" FontFamily="Arial Black" FontWeight="Bold" Background="White" BorderBrush="Black"/>
+        <Button x:Name="_9" Content="" HorizontalAlignment="Left" Margin="264,263,0,0" VerticalAlignment="Top" Height="100" Width="100" Click="Button_Click" FontSize="24" Foreground="#FFFD0000" FontFamily="Arial Black" FontWeight="Bold" BorderBrush="Black" Background="White"/>
+        <Button x:Name="start" Content="start" HorizontalAlignment="Left" Margin="591,53,0,0" VerticalAlignment="Top" Width="172" Height="83" FontFamily="Arial Black" FontSize="18" Click="start_Click" Foreground="#FF0529EF" Background="White" BorderBrush="Black"/>
+        <Label x:Name="info" Content="" HorizontalAlignment="Left" Margin="505,190,0,0" VerticalAlignment="Top" Width="258" Height="68" Background="#FF34939A" FontSize="22" Foreground="#FF8800FF" FontFamily="Segoe Script" FontWeight="Bold" BorderBrush="Black"/>
+
+    </Grid>
+</Window>

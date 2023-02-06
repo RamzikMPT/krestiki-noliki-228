@@ -1,0 +1,16 @@
+C:\Users\79663\source\repos\krestiki noliki\krestiki noliki\bin\Debug\krestiki noliki.exe.config
+C:\Users\79663\source\repos\krestiki noliki\krestiki noliki\bin\Debug\krestiki noliki.exe
+C:\Users\79663\source\repos\krestiki noliki\krestiki noliki\bin\Debug\krestiki noliki.pdb
+C:\Users\79663\source\repos\krestiki noliki\krestiki noliki\obj\Debug\krestiki noliki.csproj.AssemblyReference.cache
+C:\Users\79663\source\repos\krestiki noliki\krestiki noliki\obj\Debug\krestiki noliki.csproj.SuggestedBindingRedirects.cache
+C:\Users\79663\source\repos\krestiki noliki\krestiki noliki\obj\Debug\MainWindow.g.cs
+C:\Users\79663\source\repos\krestiki noliki\krestiki noliki\obj\Debug\App.g.cs
+C:\Users\79663\source\repos\krestiki noliki\krestiki noliki\obj\Debug\krestiki noliki_MarkupCompile.cache
+C:\Users\79663\source\repos\krestiki noliki\krestiki noliki\obj\Debug\krestiki noliki_MarkupCompile.lref
+C:\Users\79663\source\repos\krestiki noliki\krestiki noliki\obj\Debug\MainWindow.baml
+C:\Users\79663\source\repos\krestiki noliki\krestiki noliki\obj\Debug\krestiki noliki.g.resources
+C:\Users\79663\source\repos\krestiki noliki\krestiki noliki\obj\Debug\krestiki_noliki.Properties.Resources.resources
+C:\Users\79663\source\repos\krestiki noliki\krestiki noliki\obj\Debug\krestiki noliki.csproj.GenerateResource.cache
+C:\Users\79663\source\repos\krestiki noliki\krestiki noliki\obj\Debug\krestiki noliki.csproj.CoreCompileInputs.cache
+C:\Users\79663\source\repos\krestiki noliki\krestiki noliki\obj\Debug\krestiki noliki.exe
+C:\Users\79663\source\repos\krestiki noliki\krestiki noliki\obj\Debug\krestiki noliki.pdb
